@@ -1,0 +1,2 @@
+# palitest
+test for palindrome
